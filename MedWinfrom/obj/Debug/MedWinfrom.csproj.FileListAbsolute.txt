@@ -1,0 +1,10 @@
+C:\MEDICINE\SELF\work\MedWinfrom\bin\Debug\MedWinfrom.exe.config
+C:\MEDICINE\SELF\work\MedWinfrom\bin\Debug\MedWinfrom.exe
+C:\MEDICINE\SELF\work\MedWinfrom\bin\Debug\MedWinfrom.pdb
+C:\MEDICINE\SELF\work\MedWinfrom\obj\Debug\MedWinfrom.Properties.Resources.resources
+C:\MEDICINE\SELF\work\MedWinfrom\obj\Debug\MedWinfrom.csproj.GenerateResource.cache
+C:\MEDICINE\SELF\work\MedWinfrom\obj\Debug\MedWinfrom.csproj.CoreCompileInputs.cache
+C:\MEDICINE\SELF\work\MedWinfrom\obj\Debug\MedWinfrom.exe
+C:\MEDICINE\SELF\work\MedWinfrom\obj\Debug\MedWinfrom.pdb
+C:\MEDICINE\SELF\work\MedWinfrom\obj\Debug\MedWinfrom.csprojAssemblyReference.cache
+C:\MEDICINE\SELF\work\MedWinfrom\obj\Debug\MedWinfrom.ApprovalWindows.resources

@@ -1,0 +1,10 @@
+C:\MEDICINE\SELF\work\work\bin\Debug\HttpHelper.cs
+C:\MEDICINE\SELF\work\work\bin\Debug\work.exe.config
+C:\MEDICINE\SELF\work\work\bin\Debug\work.exe
+C:\MEDICINE\SELF\work\work\bin\Debug\work.pdb
+C:\MEDICINE\SELF\work\work\obj\Debug\work.csproj.CoreCompileInputs.cache
+C:\MEDICINE\SELF\work\work\obj\Debug\work.csproj.CopyComplete
+C:\MEDICINE\SELF\work\work\obj\Debug\work.exe
+C:\MEDICINE\SELF\work\work\obj\Debug\work.pdb
+C:\MEDICINE\SELF\work\work\bin\Debug\Newtonsoft.Json.dll
+C:\MEDICINE\SELF\work\work\bin\Debug\Newtonsoft.Json.xml

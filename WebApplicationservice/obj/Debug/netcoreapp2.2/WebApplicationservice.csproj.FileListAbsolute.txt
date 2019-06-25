@@ -1,0 +1,14 @@
+C:\MEDICINE\SELF\work\WebApplicationservice\bin\Debug\netcoreapp2.2\WebApplicationservice.deps.json
+C:\MEDICINE\SELF\work\WebApplicationservice\bin\Debug\netcoreapp2.2\WebApplicationservice.runtimeconfig.json
+C:\MEDICINE\SELF\work\WebApplicationservice\bin\Debug\netcoreapp2.2\WebApplicationservice.runtimeconfig.dev.json
+C:\MEDICINE\SELF\work\WebApplicationservice\bin\Debug\netcoreapp2.2\WebApplicationservice.dll
+C:\MEDICINE\SELF\work\WebApplicationservice\bin\Debug\netcoreapp2.2\WebApplicationservice.pdb
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.csproj.CoreCompileInputs.cache
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.RazorAssemblyInfo.cache
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.RazorAssemblyInfo.cs
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.AssemblyInfoInputs.cache
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.AssemblyInfo.cs
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.RazorTargetAssemblyInfo.cache
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.dll
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.pdb
+C:\MEDICINE\SELF\work\WebApplicationservice\obj\Debug\netcoreapp2.2\WebApplicationservice.csprojAssemblyReference.cache
